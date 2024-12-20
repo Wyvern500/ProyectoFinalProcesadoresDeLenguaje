@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|c:\\users\\ivaan\\source\\repos\\proyectofinalprocesadoresdelenguaje\\proyectofinalprocesadoresdelenguaje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|solutionrelative:proyectofinalprocesadoresdelenguaje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\proyectofinalprocesadoresdelenguaje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|solutionrelative:proyectofinalprocesadoresdelenguaje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|c:\\users\\ivaan\\source\\repos\\proyectofinalprocesadoresdelenguaje\\proyectofinalprocesadoresdelenguaje\\filterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|solutionrelative:proyectofinalprocesadoresdelenguaje\\filterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|c:\\users\\ivaan\\source\\repos\\proyectofinalprocesadoresdelenguaje\\proyectofinalprocesadoresdelenguaje\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|solutionrelative:proyectofinalprocesadoresdelenguaje\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|c:\\users\\ivaan\\source\\repos\\proyectofinalprocesadoresdelenguaje\\proyectofinalprocesadoresdelenguaje\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CECB6D-2707-4667-AFCC-202DB4C4CFD2}|ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje.csproj|solutionrelative:proyectofinalprocesadoresdelenguaje\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\FilterHandler.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalProcesadoresDeLenguaje\\FilterHandler.cs",
+              "ToolTip": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\FilterHandler.cs",
+              "RelativeToolTip": "ProyectoFinalProcesadoresDeLenguaje\\FilterHandler.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADgvz4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-11T15:55:36.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\FileUtils.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalProcesadoresDeLenguaje\\FileUtils.cs",
+              "ToolTip": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\FileUtils.cs",
+              "RelativeToolTip": "ProyectoFinalProcesadoresDeLenguaje\\FileUtils.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-11T15:40:45.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalProcesadoresDeLenguaje\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\ClientHandler.cs",
+              "RelativeToolTip": "ProyectoFinalProcesadoresDeLenguaje\\ClientHandler.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAA1wHsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-11T15:28:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "RelativeToolTip": "ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAArwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T19:54:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivaan\\source\\repos\\ProyectoFinalProcesadoresDeLenguaje\\ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "RelativeToolTip": "ProyectoFinalProcesadoresDeLenguaje\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-10T19:47:17.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
